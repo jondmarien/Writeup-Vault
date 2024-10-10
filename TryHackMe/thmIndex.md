@@ -1,3 +1,3 @@
 ## TryHackMe Labs
 
-Here
+*THM Lab internal linked labs go here*
